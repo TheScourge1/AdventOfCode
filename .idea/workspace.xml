@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09173c50-5bbd-4d0d-aaf2-026e5028817e" name="Default" comment="" />
+    <list default="true" id="09173c50-5bbd-4d0d-aaf2-026e5028817e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/BunnyAssemblerProcessor$Command.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/BunnyAssemblerProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise10$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise10$Bot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise11$Building.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise12$Memory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise13$Coord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise1Clean$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise1Clean$Coordinate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise1Clean$Direction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise1Clean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise2$Coordinate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise21.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise22$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise22.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise23.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise23Old$Command.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise23Old.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise24$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise24$Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise24.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise25$FoundException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise25$NotFoundException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise25.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise4$RoomCode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise8$Display.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/Excercise9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/BunnyAssemblerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise10Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise11Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise12Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise13Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise14Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise15Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise16Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise17Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise18Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise19Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise1Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise20Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise21Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise22Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise23Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise24Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise25Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise2Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise3Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise4Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise5Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise6Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise7Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise8Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test/AdventOfCode/org/adventOfCode/Excercise9Test.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/GenericExcercise.class" afterPath="$PROJECT_DIR$/target/production/AdventOfCode/org/adventOfCode/GenericExcercise.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/adventOfCode.log" afterPath="$PROJECT_DIR$/logs/adventOfCode.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise1.java" afterPath="$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/org/adventOfCode/code2017/Excercise1Test.java" afterPath="$PROJECT_DIR$/test/org/adventOfCode/code2017/Excercise1Test.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,21 +94,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Excercise1Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/org/adventOfCode/code2017/Excercise1Test.java">
+      <file leaf-file-name="Excercise2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="221">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Excercise1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise1.java">
+      <file leaf-file-name="Excercise2Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/org/adventOfCode/code2017/Excercise2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excercise2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/2017/Excercise2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,8 +146,11 @@
       <list>
         <option value="$PROJECT_DIR$/lib/junit-4.12.jar/org/junit/rules/Timeout.class" />
         <option value="$PROJECT_DIR$/src/org/adventOfCode/GenericExcercise.java" />
-        <option value="$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise1.java" />
+        <option value="$PROJECT_DIR$/resource/2017/exercise1.txt" />
         <option value="$PROJECT_DIR$/test/org/adventOfCode/code2017/Excercise1Test.java" />
+        <option value="$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise1.java" />
+        <option value="$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise2.java" />
+        <option value="$PROJECT_DIR$/test/org/adventOfCode/code2017/Excercise2Test.java" />
       </list>
     </option>
   </component>
@@ -112,6 +202,12 @@
             <path>
               <item name="AdventOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="AdventOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -123,6 +219,13 @@
             <path>
               <item name="AdventOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="AdventOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="code2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -130,6 +233,13 @@
               <item name="AdventOfCode" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdventOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="adventOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="code2017" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,6 +267,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.adventOfCode.code2016" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.adventOfCode.code2017" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Koen\IdeaProjects\AdventOfCode\lib" />
     </key>
@@ -173,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Excercise1Test.testResult">
+  <component name="RunManager" selected="JUnit.Excercise1Test.testResult (1)">
     <configuration name="Excercise1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -188,6 +301,31 @@
       <option name="MAIN_CLASS_NAME" value="org.adventOfCode.code2016.Excercise1Test" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Excercise1Test.testResult (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.adventOfCode.code2017.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="AdventOfCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.adventOfCode.code2017" />
+      <option name="MAIN_CLASS_NAME" value="org.adventOfCode.code2017.Excercise1Test" />
+      <option name="METHOD_NAME" value="testResult" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -300,17 +438,19 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.Excercise1Test.testResult" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.Excercise1Test" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.Excercise2Test" />
       <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Excercise1Test.testResult (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Excercise2Test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Excercise1Test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Excercise1Test.testResult (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Excercise2Test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Excercise1Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -325,48 +465,47 @@
       <option name="presentableId" value="Default" />
       <updated>1512136435201</updated>
       <workItem from="1512136436621" duration="1489000" />
-      <workItem from="1512138872499" duration="2733000" />
+      <workItem from="1512138872499" duration="4918000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Excercise1Test - 2017.12.01 at 15h 54m 31s.xml">
-      <configuration name="Excercise1Test" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 36m 48s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise1Test - 2017.12.01 at 15h 59m 06s.xml">
-      <configuration name="Excercise1Test" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 38m 15s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise1Test_testResult - 2017.12.01 at 15h 54m 25s.xml">
-      <configuration name="Excercise1Test.testResult" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 40m 54s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise1Test_testResult - 2017.12.01 at 15h 54m 39s.xml">
-      <configuration name="Excercise1Test.testResult" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 41m 48s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise1Test_testResult - 2017.12.01 at 16h 02m 01s.xml">
-      <configuration name="Excercise1Test.testResult" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 43m 12s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise1Test_testResult - 2017.12.01 at 16h 02m 11s.xml">
-      <configuration name="Excercise1Test.testResult" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 44m 16s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise1Test_testResult - 2017.12.01 at 16h 03m 52s.xml">
-      <configuration name="Excercise1Test.testResult" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 44m 49s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise1Test_testResult - 2017.12.01 at 16h 04m 15s.xml">
-      <configuration name="Excercise1Test.testResult" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 48m 37s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise1Test_testResult - 2017.12.01 at 16h 06m 30s.xml">
-      <configuration name="Excercise1Test.testResult" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 49m 00s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Excercise2Test - 2017.12.01 at 15h 59m 16s.xml">
-      <configuration name="Excercise2Test" configurationId="JUnit" />
+    <history-entry file="Excercise1Test_testResult_(1) - 2017.12.01 at 16h 49m 28s.xml">
+      <configuration name="Excercise1Test.testResult (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4222000" />
+    <option name="totallyTimeSpent" value="6407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -376,20 +515,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39962476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -405,7 +544,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -484,18 +625,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resource/2017/Excercise1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2166" lean-forward="false" selection-start-line="0" selection-start-column="2166" selection-end-line="0" selection-end-column="2166" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/2016/Excercise3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/adventOfCode/code2016/Excercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/org/adventOfCode/code2017/Excercise1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="493">
+          <caret line="29" column="83" lean-forward="false" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/2017/Excercise2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/adventOfCode/code2017/Excercise2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/adventOfCode/code2017/Excercise2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
