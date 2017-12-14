@@ -31,11 +31,11 @@ public class Excercise9Test {
         test3 = "<{o\"i!a,<{i<a>"; //10
 
 
-        result = test.getGarbageCount(test1);
+        result = test.getScore(test1);
         assertTrue("Expected value 3 "+"but found " + result,result == 3);
-        result = test.getGarbageCount(test2);
+        result = test.getScore(test2);
         assertTrue("Expected value 0 "+"but found " + result,result == 0);
-        result = test.getGarbageCount(test3);
+        result = test.getScore(test3);
         assertTrue("Expected value 10 "+"but found " + result,result == 10);
 
         test.executeTest();
