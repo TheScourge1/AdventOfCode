@@ -16,7 +16,7 @@ public class Excercise12 extends GenericExcercise {
         int result = programCountInGroup(input,0);
         logger.debug("Result of excercise 12A: "+result);
 
-       result = countGroups(input);
+        result = countGroups(input);
         logger.debug("Result of excercise 12B: "+result);
 
     }

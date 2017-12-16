@@ -70,7 +70,6 @@ public class Excercise10 extends GenericExcercise {
         return b.toString();
     }
 
-
     private List<Integer> getHashValue(List<Integer> inputValues,List<Integer> hashList,int itterations){
         List<Integer> intList = new ArrayList(hashList);
 
@@ -82,9 +81,9 @@ public class Excercise10 extends GenericExcercise {
 
                 reverseList.addAll(intList.subList(index, Math.min(index + inputValue, intList.size())));
                 if (inputValue + index > intList.size())
-                    reverseList.addAll(intList.subList(0, inputValue + index - intList.size()));
+                    reverseList.addAll(intList.subList(0, (inputValue + index)%intList.size()));
                 Collections.reverse(reverseList);
-                for (int i = index; i < index + inputValue; i++)
+                for (int i = index; i < index + inputValue && i-index < reverseList.size(); i++)
                     intList.set(i % intList.size(), reverseList.get(i - index));
 
                 index = (index + inputValue + skipSize) % intList.size();
