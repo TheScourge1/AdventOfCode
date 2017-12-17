@@ -62,9 +62,6 @@ public class Excercise16 extends GenericExcercise {
 
     public String executeMultipleDanceMoves(String startPositions,String input,int size,int danceCount) {
         String result = executeDance(startPositions,input,size);
-     /*  int[] indexes = new int[size];
-        for(int i = 0; i < size; i++) indexes[i] = result.indexOf('a'+i);*/
-
         Set<String> newMoves = new HashSet<>();
 
         while(! newMoves.contains(result)){
@@ -77,11 +74,8 @@ public class Excercise16 extends GenericExcercise {
         int movesToComplete = danceCount % newMoves.size();
 
         for(int i = 0; i < movesToComplete-1; i++){
-         /*   StringBuilder b = new StringBuilder();
-            for(int j = 0; j < size; j++) b.append(result.substring(indexes[j],indexes[j]+1));*/
             result = executeDance(result,input,size);
             if(i% 10000 == 0 )logger.debug(i);
-
         }
 
         return result;
