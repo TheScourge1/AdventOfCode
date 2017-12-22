@@ -62,7 +62,7 @@ public class Excercise21 extends GenericExcercise {
             }
             matrix = newMatrix;
           //  logger.debug("");
-          //  for(String s : matrix) logger.debug(s);
+            //  for(String s : matrix) logger.debug(s);
         }
 
         for(String s : matrix) {
